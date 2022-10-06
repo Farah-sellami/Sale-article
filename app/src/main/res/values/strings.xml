@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vente Article</string>
+    <string name="prix">prix</string>
+    <string name="poids">poids</string>
+        <string-array name="V_TVA">
+            <item>0</item>
+            <item>10</item>
+            <item>12</item>
+            <item>18</item>
+        </string-array>
+</resources>
